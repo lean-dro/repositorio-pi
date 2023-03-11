@@ -1,0 +1,19 @@
+.card {
+    background-color: #040D09;
+    width: 400px;
+    padding: 20px;
+    border: 2px solid #D91E2E;
+    border-radius: 10px;
+    margin-top: 50px;
+    color: white;
+    font-family: 'Segoe UI';
+}
+.avatar{
+    background-color: white;
+    width: 50px; 
+    height: 50px; 
+    border-radius: 50px;
+}
+.destaque{
+    color: #D91E2E;
+}
