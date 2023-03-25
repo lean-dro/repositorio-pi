@@ -1,0 +1,11 @@
+fluidez - responsividade: 
+    - viewport trabalha com o tamanho da tela e não do conteúdo: vh, vw
+
+    - usado em fontes: rem = 16px / em = se adapta com o elemento pai, por ex(
+        pai{
+            font-size: 100px;
+        }
+        filho{
+            font-size: 2em; // vai equivaler a 200px
+        }
+    )   
